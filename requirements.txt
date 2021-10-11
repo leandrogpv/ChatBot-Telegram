@@ -1,1 +1,3 @@
-spacy==2.2
+wheel
+Cython
+blis
